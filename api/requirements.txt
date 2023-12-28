@@ -1,0 +1,5 @@
+Django
+mysqlclient
+gunicorn
+drf-spectacular
+python-dotenv
